@@ -1,1 +1,1 @@
-First programing README
+pointers, arrays and strings
